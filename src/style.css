@@ -1,0 +1,87 @@
+.login-div {
+    text-align: center;
+    width: 300px;
+    padding-left: 35%;
+    margin-top: 10%;
+}
+
+.login-form{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.login-error {
+    color: red;
+}
+
+.log-out{
+    /* border: 2px solid black;
+    border-radius: 20px; */
+    text-align: center; 
+    width: 700px;
+    height: 45px;
+}
+
+.user-posts {
+    margin-left: 30%;
+}
+
+.logout-link {
+    text-align: center;
+    float: right;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: coral;
+    font-size: large;
+}
+ 
+h2,h4 {
+    margin: 0px;
+    margin-left: 2%;
+   
+}
+
+            
+.companyinfo{
+    float: right;
+    width: 250px;
+}
+
+.user-basic{
+    width: 200px;
+    float: left;
+}
+
+.Posts-info{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 700px;
+    margin-top: 10px;
+    background-color: black;
+}
+
+.post-desc{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 680px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: chartreuse;
+}
+
+
+.User-info{
+    margin-top: 30px;
+    /* float: left; */
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 700px;
+    height: 100px;
+    background-color: chartreuse;
+}
+
+
+
+
